@@ -9,6 +9,6 @@ I'm excited for [bun.sh](https://bun.sh) to bring the Rust toolchain experience 
 
 I particularly enjoy the challenge to write software which is _as simple as possible, but no simpler_.
 
-If you would like to get in touch you can find my email, or book a time to chat with me, at [owls.io](https://owls.io).
+If you would like to get in touch you can find my email, or book a time to chat with me, at [shirls.org](https://shirls.org).
 
 </div>
